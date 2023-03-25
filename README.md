@@ -1,6 +1,6 @@
 # PBI_stock_market_analytical_dashboard
 
- The purpose of this project is to extract information about Stock Market Analytical Dashboard data.
+ The purpose of this project is to extract information about Stock Market Analytical Dashboard data. This project was developed in a Data Science Academy course: https://www.datascienceacademy.com.br
 
  The questions below must be answered:
 
